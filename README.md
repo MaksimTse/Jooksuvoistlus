@@ -78,6 +78,15 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 
 ![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/6532983a-6242-4cae-9785-52f3adbfeb56)
 
+### saate registreerida uue kasutaja, kui te ei ole varem kasutajat loonud.
+
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/9201b9ca-4859-4f13-aa55-1c96b27077b2)
+
+### logi sisse
+
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/3fd46adf-a468-44bc-894e-5aaa4ab5dd57)
+
+
 ### sait, kui oled sisse logitud tavakasutajana
 
 ![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/7455ba16-e44f-499d-9508-2071ccaa34d7)
