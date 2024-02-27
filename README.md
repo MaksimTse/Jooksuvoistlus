@@ -74,8 +74,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://maksimtsepelevits22.thkit.ee/jslehtTarpv22/content/andmebaas/Jooks2/jooksmain.php)
-
 Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste korraldamiseks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
