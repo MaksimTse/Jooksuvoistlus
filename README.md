@@ -315,6 +315,12 @@ See projekt sisaldab järgmist funktsionaalsust:
     </body>
     </html>
 ```
+
+
+## Autorid
+
+Tšepelevitš Maksim
+
 <p align="right">(<a href="#readme-top">Tagasi üles</a>)</p>
 
 [product-screenshot]: images/screenshot.png
