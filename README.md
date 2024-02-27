@@ -84,6 +84,9 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 
 ### sait, kui oled sisse logitud adminina
 
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/6f26d7c8-c1d2-4757-9165-c35fe6ef4514)
+
+
 [product-screenshot]: images/screenshot.png
 [JS.js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JS-url]: https://www.javascript.com/
