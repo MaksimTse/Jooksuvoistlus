@@ -80,7 +80,7 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 
 ### saate registreerida uue kasutaja, kui te ei ole varem kasutajat loonud.
 
-![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/9201b9ca-4859-4f13-aa55-1c96b27077b2)
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/124d23f2-e0c9-4c86-b02c-db5dfc43dc0e)
 
 ### logi sisse
 
