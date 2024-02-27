@@ -32,7 +32,7 @@
 
 Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste korraldamiseks.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -291,7 +291,7 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
     </body>
     </html>
 ```
-
+<p align="right">(<a href="#readme-top">Tagasi üles</a>)</p>
 [product-screenshot]: images/screenshot.png
 [JS.js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JS-url]: https://www.javascript.com/
