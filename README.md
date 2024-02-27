@@ -67,14 +67,13 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 
 
 
-### Built With
+### tehtud koos
 
 * [![JS][JS.js]][JS-url]
 * [![PHP][PHP.js]][PHP-url]
 * [![HTML5][HTML5.js]][HTML5-url]
 * [![CSS][CSS.js]][CSS-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 # Saidi vaatamine ilma kontole sisse logimata
 
 ![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/6532983a-6242-4cae-9785-52f3adbfeb56)
