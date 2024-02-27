@@ -188,9 +188,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [product-screenshot]: images/screenshot.png
-[JS.js]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow
+[JS.js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JS-url]: https://www.javascript.com/
-[HTML5.js]: https://img.shields.io/badge/HTML5-4A4A55?style=for-the-badge&logo=HTML5&logoColor=orange
+[HTML5.js]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/
-[PHP.js]: https://img.shields.io/badge/PHP-#6765ad?style=for-the-badge&logo=PHP&logoColor=4FC08D
+[PHP.js]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [PHP-url]: https://www.php.net/
+[CSS.js]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.free-css.com/
