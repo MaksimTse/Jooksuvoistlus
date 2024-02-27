@@ -194,7 +194,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/JavaScript-black?logo=javascript
-[React-url]: https://www.javascript.com/
+[Nextjs-url]: https://www.javascript.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
