@@ -195,9 +195,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow
 [Next-url]: https://www.javascript.com/
-[React.js]: https://img.shields.io/badge/HTML5--4A4A55?style=for-the-badge&logo=HTML5&logoColor=orange
+[React.js]: https://img.shields.io/badge/HTML5-4A4A55?style=for-the-badge&logo=HTML5&logoColor=orange
 [React-url]: https://html.com/
-[Vue.js]: https://img.shields.io/badge/PHP-35495E?style=for-the-badge&logo=PHP&logoColor=4FC08D
+[Vue.js]: https://img.shields.io/badge/PHP-#6765ad?style=for-the-badge&logo=PHP&logoColor=4FC08D
 [Vue-url]: https://www.php.net/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
