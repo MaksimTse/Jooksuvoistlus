@@ -87,6 +87,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![JS][JS.js]][JS-url]
 * [![HTML5][HTML5.js]][HTML5-url]
 * [![PHP][PHP.js]][PHP-url]
+* [![CSS][CSS.js]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
