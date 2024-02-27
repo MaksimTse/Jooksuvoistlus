@@ -42,6 +42,7 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 * [![PHP][PHP.js]][PHP-url]
 * [![HTML5][HTML5.js]][HTML5-url]
 * [![CSS][CSS.js]][CSS-url]
+  
 
 | Osa           | Õigused       
 | ------------- |:-------------:
