@@ -74,10 +74,15 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 * [![HTML5][HTML5.js]][HTML5-url]
 * [![CSS][CSS.js]][CSS-url]
 
-# Saidi vaatamine ilma kontole sisse logimata
+### Saidi vaatamine ilma kontole sisse logimata
 
 ![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/6532983a-6242-4cae-9785-52f3adbfeb56)
 
+### sait, kui oled sisse logitud tavakasutajana
+
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/7455ba16-e44f-499d-9508-2071ccaa34d7)
+
+### sait, kui oled sisse logitud adminina
 
 [product-screenshot]: images/screenshot.png
 [JS.js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
