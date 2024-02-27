@@ -43,6 +43,19 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 * [![HTML5][HTML5.js]][HTML5-url]
 * [![CSS][CSS.js]][CSS-url]
 
+| Osa           | Õigused       
+| ------------- |:-------------:
+| Admin         | jooksja lisamine, jooksja muutmine, taimer käivitamine, taimer peatamine ja tulemuste vaatamine
+| Kasutaja      | jooksja lisamine ja tulemuste vaatamine
+  
+
+
+### Sõltuvused
+
+* Veebibrauser (Google Chrome, Firefox)
+* Wi-Fi
+* Andmebaas
+
 ### Saidi vaatamine ilma kontole sisse logimata
 
 ![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/6532983a-6242-4cae-9785-52f3adbfeb56)
@@ -82,7 +95,7 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 ![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/6e3ea2cc-8ba4-4c4a-b7d2-1cdcd6a31895)
 
 
-#Kood
+# Kood
 
 ```<?php
     session_start();
