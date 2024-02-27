@@ -26,19 +26,6 @@
   </a>
 
 <h3 align="center">Jooksuvõistlus</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/MaksimTse/Jooksuvoistlus"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/MaksimTse/Jooksuvoistlus">View Demo</a>
-    ·
-    <a href="https://github.com/MaksimTse/Jooksuvoistlus">Report Bug</a>
-    ·
-    <a href="https://github.com/MaksimTse/Jooksuvoistlus">Request Feature</a>
-  </p>
 </div>
 
 
