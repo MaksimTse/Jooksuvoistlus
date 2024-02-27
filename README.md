@@ -193,7 +193,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/JavaScript-black?logo=javascript
+[Next.js]: https://img.shields.io/badge/JavaScript-20232A?logo=javascript
 [Next-url]: https://www.javascript.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
