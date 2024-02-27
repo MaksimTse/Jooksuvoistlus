@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/038d368b-b7a9-4f3b-81df-fa6b9ca5137e)<a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -87,13 +87,30 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 ![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/3fd46adf-a468-44bc-894e-5aaa4ab5dd57)
 
 
-### sait, kui oled sisse logitud tavakasutajana
+### sait, kui oled sisse logitud tavakasutajana, kus saab lisada uusi jooksjaid esilehele.
 
 ![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/739d7ba9-beb8-4c53-9fad-c0ba3ef92af0)
 
-### sait, kui oled sisse logitud adminina
+### Keskmine kasutaja saab vaadata ka parimaid tulemusi
+
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/c88e65a8-1115-437d-9e68-dcc74ce4dc12)
+
+### sait, kui oled sisse logitud adminina, kus saab vahetada kasutajaid esilehel
 
 ![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/d2ed7bb5-5e80-46ef-b061-ec562e6281c7)
+
+### Administraator saab käivitada taimeri
+
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/102798d3-2b91-4b54-9219-786d24128484)
+
+### Samuti saab taimer peatada
+
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/d9ba078a-f290-43e2-ae50-4a57125012a7)
+
+### Ja kõik on sama, mis tavalisel kasutajal
+
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/0c23f262-671a-47e9-ab0c-ecec001c2346)
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/6e3ea2cc-8ba4-4c4a-b7d2-1cdcd6a31895)
 
 
 [product-screenshot]: images/screenshot.png
