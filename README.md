@@ -75,6 +75,9 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 * [![CSS][CSS.js]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+Saidi vaatamine ilma kontole sisse logimata
+![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/6532983a-6242-4cae-9785-52f3adbfeb56)
+
 
 [product-screenshot]: images/screenshot.png
 [JS.js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
