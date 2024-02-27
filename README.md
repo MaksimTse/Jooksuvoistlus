@@ -100,6 +100,25 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 
 
 # Kood
+### See kood on veebileht üritusel osalejate haldamiseks, sealhulgas uute osalejate registreerimiseks, andmete kuvamiseks ja navigeerimiseks.
+
+Этот проект содержит следующие функциональности:
+
+Начало сессии PHP для сохранения данных пользователя.
+Подключение к базе данных через файл conf.php.
+Проверка отправленных данных формы и выполнение SQL-запроса для добавления новых участников.
+Функция для проверки статуса пользователя (isAdmin()).
+Отображение различных элементов в зависимости от статуса пользователя.
+Использование JavaScript для сортировки таблицы и управления модальным окном.
+Файловая структура
+index.php: Основной файл веб-страницы.
+conf.php: Файл с настройками базы данных.
+registration.php: Форма регистрации участника.
+login.php: Форма входа пользователя.
+logout.php: Выход из системы.
+jookja.css: Файл стилей для оформления страницы.
+logo.png: Логотип мероприятия.
+jooksjad.jpg: Изображение, пропагандирующее участие в мероприятии.
 
 ```<?php
     session_start();
