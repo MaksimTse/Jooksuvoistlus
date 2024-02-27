@@ -1,4 +1,4 @@
-![pilt](https://github.com/MaksimTse/Jooksuvoistlus/assets/120181800/038d368b-b7a9-4f3b-81df-fa6b9ca5137e)<a name="readme-top"></a>
+<a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
