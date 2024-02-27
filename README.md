@@ -36,7 +36,7 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 
 
 
-### tehtud koos
+### Tehtud koos
 
 * [![JS][JS.js]][JS-url]
 * [![PHP][PHP.js]][PHP-url]
@@ -56,6 +56,9 @@ Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste kor
 * Veebibrauser (Google Chrome, Firefox)
 * Wi-Fi
 * Andmebaas
+
+# Veebisaidi link
+[Jooksuvõistlus](https://artursuskevits22.thkit.ee/Jooks2/autasustamise.php)
 
 ### Saidi vaatamine ilma kontole sisse logimata
 
