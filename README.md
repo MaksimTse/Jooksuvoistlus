@@ -30,19 +30,14 @@
 
 ## Sisukord
 
-1. ### [Projekti kohta]
-2. ### [Tehtud koos]
-3. ### [Osa ja õigused]
-4. ### [Sõltuvused]
-5. ### [Veebisaidi link]
-6. ### [Kood]
-   - ### [Faili struktuur]
-7. ### [Autorid]
-
-## [Kood](#kood)
-### [Faili struktuur](#faili-struktuur)
-
-## [Autorid](#autorid)
+1. [Projekti kohta](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#projekti-kohta)
+2. [Tehtud koos](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#tehtud-koos)
+3. [Osa ja õigused]([https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#kood](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#osa-ja-%C3%B5igused))
+4. [Sõltuvused](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#s%C3%B5ltuvused)
+5. [Veebisaidi link](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#veebisaidi-link)
+6. [Kood](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#kood)
+   - [Faili struktuur](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#faili-struktuur)
+7. [Autorid](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#autorid)
 
 # Projekti kohta
 
