@@ -28,12 +28,22 @@
 <h3 align="center">Jooksuvõistlus</h3>
 </div>
 
+## Sisukord
+
+## [Projekti kohta](#projekti-kohta)
+### [Tehtud koos](#tehtud-koos)
+### [Osa ja õigused](#osa-ja-õigused)
+### [Sõltuvused](#sõltuvused)
+### [Veebisaidi link](#veebisaidi-link)
+
+## [Kood](#kood)
+### [Faili struktuur](#faili-struktuur)
+
+## [Autorid](#autorid)
+
 # Projekti kohta
 
 Sait on loodud peamiselt koolides või muudes kohtades toimuvate võistluste korraldamiseks.
-
-
-
 
 
 ### Tehtud koos
