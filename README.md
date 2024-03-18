@@ -32,7 +32,7 @@
 
 1. [Projekti kohta](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#projekti-kohta)
 2. [Tehtud koos](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#tehtud-koos)
-3. [Osa ja õigused]([https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#kood](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#osa-ja-%C3%B5igused))
+3. [Osa ja õigused](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#osa-ja-%C3%B5igused)
 4. [Sõltuvused](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#s%C3%B5ltuvused)
 5. [Veebisaidi link](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#veebisaidi-link)
 6. [Kood](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#kood)
