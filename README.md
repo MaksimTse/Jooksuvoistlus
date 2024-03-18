@@ -34,7 +34,7 @@
 ### [Tehtud koos](#tehtud-koos)
 ### [Osa ja õigused](#osa-ja-õigused)
 ### [Sõltuvused](#sõltuvused)
-### [Veebisaidi link](#veebisaidi-link)
+### [Veebisaidi link]
 
 ## [Kood](#kood)
 ### [Faili struktuur](#faili-struktuur)
