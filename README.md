@@ -30,9 +30,9 @@
 
 ## Sisukord
 
-1. [Projekti kohta]
-2. [Tehtud koos]
-3. [Osa ja õigused]
+1. ### [Projekti kohta]
+2. ### [Tehtud koos]
+3. ## [Osa ja õigused]
 4. [Sõltuvused]
 5. [Veebisaidi link]
 6. [Kood]
