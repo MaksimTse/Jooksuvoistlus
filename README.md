@@ -30,14 +30,14 @@
 
 ## Sisukord
 
-1. # [Projekti kohta]
-2. # [Tehtud koos]
-3. # [Osa ja õigused]
-4. # [Sõltuvused]
-5. # [Veebisaidi link]
-6. # [Kood]
+1. ### [Projekti kohta]
+2. ### [Tehtud koos]
+3. ### [Osa ja õigused]
+4. ### [Sõltuvused]
+5. ### [Veebisaidi link]
+6. ### [Kood]
    - ### [Faili struktuur]
-7. # [Autorid]
+7. ### [Autorid]
 
 ## [Kood](#kood)
 ### [Faili struktuur](#faili-struktuur)
