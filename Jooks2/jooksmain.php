@@ -1,30 +1,39 @@
 <?php
-    session_start();
-    require "conf.php";
+// Alusta sessiooni, mis võimaldab andmeid kasutaja päringute vahel säilitada.
+session_start();
+// Nõuab ühendust andmebaasiga ja muid konfiguratsiooniseadeid.
+require "conf.php";
+// Globaalse ühenduse deklareerimine andmebaasiga.
+global $yhendus;
+
+// Kontrollib, kas vormist on saadetud andmed.
+if(isset($_REQUEST["nimi"]) && !empty($_REQUEST["nimi"]) && isset($_REQUEST["perenimi"]) && !empty($_REQUEST["perenimi"])){
+    // Lisab vormist saadud andmed andmebaasi.
     global $yhendus;
+    $kask=$yhendus->prepare("Insert INTO jooksjad (eesnimi,perenimi) Values(?,?)");
+    $kask->bind_param("ss", $_REQUEST["nimi"], $_REQUEST["perenimi"]);
+    $kask->execute();
+    // Pärast andmete edukat töötlemist suunatakse tagasi samale lehele.
+    header("Location: $_SERVER[PHP_SELF]");
+    $yhendus->close();
+    exit();
+}
 
-    if(isset($_REQUEST["nimi"]) && !empty($_REQUEST["nimi"]) && isset($_REQUEST["perenimi"]) && !empty($_REQUEST["perenimi"])){
-        global $yhendus;
-        $kask=$yhendus->prepare("Insert INTO jooksjad (eesnimi,perenimi) Values(?,?)");
-        $kask->bind_param("ss", $_REQUEST["nimi"], $_REQUEST["perenimi"]);
-        $kask->execute();
-        header("Location: $_SERVER[PHP_SELF]");
-        $yhendus->close();
-        exit();
-    }
+// Funktsioon, mis kontrollib, kas kasutajal on administraatori staatus.
+function isAdmin(){
+    return isset($_SESSION['status']) && $_SESSION['status'];
+}
 
-    function isAdmin(){
-        return isset($_SESSION['status']) && $_SESSION['status'];
-    }
-    if (isset($_SESSION["login"]) && isset($_SESSION["!login"]) && isset($_SESSION['status'])) {
-
-        // Display the Registration form only when a user is logged in
-        include('registration.php');
-    }
-    ?>
+// Kui kasutaja on sisse logitud ja tal on administraatori staatus, lisatakse registreerimisvorm.
+if (isset($_SESSION["login"]) && isset($_SESSION["!login"]) && isset($_SESSION['status'])) {
+    include('registration.php');
+}
+?>
 
 
-    <!DOCTYPE html>
+
+
+<!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
