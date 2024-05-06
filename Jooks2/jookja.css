@@ -7,7 +7,7 @@ body {
 }
 
 header,#rararar {
-    background-color: #ff0066;
+    background-color: blue;
     width: 100%;
     height: 75px;
     right: 23px;
@@ -159,12 +159,12 @@ th, td {
 }
 
 th {
-    background-color: #ff0066;
+    background-color: blue;
     color: #fff;
 }
 
 #lisabtn, #Stratbuton, #muudabtn {
-    background-color: #ff0066;
+    background-color: blue;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -210,11 +210,11 @@ th {
 }
 
 .close:hover {
-    color: #cc0044;
+    color: blue;
 }
 
 #Muuda_joksja {
-    color: #ff0066;
+    color: blue;
 }
 
 form {
@@ -237,7 +237,7 @@ input {
 }
 
 #jkskls {
-    background-color: #ff0066;
+    background-color: blue;
     color: #fff;
     padding: 10px;
     border: none;
@@ -246,7 +246,7 @@ input {
 }
 
 #jkskls:hover {
-    background-color: #cc0044;
+    background-color: blue;
 }
 
 #jooksjad {
