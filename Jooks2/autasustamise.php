@@ -191,10 +191,10 @@ foreach ($ResultArray as $index => $result) {
 }
 
 // Display the top 3 results with ranking
-$TOPResults = array_slice($ResultArray, 0, 3);
+$TOPResults = array_slice($ResultArray, 0, 5);
 ?>
 <div id="top-results">
-    <h2>Top 3 Tulemusi</h2>
+    <h2>Top 5 Tulemusi</h2>
     <ul class="leaderboard">
         <?php foreach ($TOPResults as $index => $result) : ?>
             <li class="leaderboard-item">
