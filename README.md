@@ -338,6 +338,9 @@ Tšepelevitš Maksim
 4. Lisa tabelite nuppudele uus stiil (kustutamise, muutmise jms linkide asemel.)
 5. Vaheta logo
 6. Lisa teave saidi avalehele
+7. Muuda saidi taust veidi tumedamaks
+8. Kommenteeri avalehe kood
+9. Lisa edetabelis 4. ja 5. kohale pilte või emotikone
 
 admin login - admin | admin.
 
