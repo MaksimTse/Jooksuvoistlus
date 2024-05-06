@@ -163,7 +163,7 @@ th {
     color: #fff;
 }
 
-#lisabtn, #Stratbuton, #muudabtn {
+#lisabtn, #Stratbuton, #muudabtn, #kustutabtn {
     background-color: blue;
     color: #fff;
     padding: 10px 20px;
@@ -171,6 +171,7 @@ th {
     border-radius: 5px;
     margin: 0px auto;
     cursor: pointer;
+    text-decoration: none;
 }
 .close {
     color: #333;

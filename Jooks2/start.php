@@ -114,7 +114,7 @@ if (isset($_SESSION["login"]) && isset($_SESSION["!login"]) && isset($_SESSION['
         <th id="cursor" onclick="sortTable(1)">Perenimi</th>
         <th>Alustamisaeg</th>
         <th id="cursor" onclick="sortTable(2)">Lõpetamisaeg</th>
-        <th>Kustuta</th>
+        <th>Start</th>
     </tr>
     <?php
     global $yhendus;
@@ -128,7 +128,7 @@ if (isset($_SESSION["login"]) && isset($_SESSION["!login"]) && isset($_SESSION['
         echo "<td>" . $perenimi . "</td>";
         echo "<td>" . $alustamiaeg . "</td>";
         echo "<td>" . $lopitamisaeg . "</td>";
-        echo "<td><a href='?kustuta=$id' id='Link'>Kustuta</a></td>";
+        echo "<td><a href='?start=$id' id='Stratbuton'>Start</a></td>";
         echo "</tr>";
     }
     ?>

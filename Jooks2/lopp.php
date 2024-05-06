@@ -135,10 +135,12 @@ function sortTable(columnIndex) {
         echo "<td>" . $perenimi . "</td>";
         echo "<td>" . $alustamiaeg . "</td>";
         echo "<td>" . $lopitamisaeg . "</td>";
-        echo "<td><a href='?stop=$id'>Stop</a></td>";
+        echo "<td><a href='?kustuta=$id' id='kustutabtn'>Kustuta</a></td>
+";
         echo "</tr>";
     }
     ?>
+
 </table>
 <?php
 }
