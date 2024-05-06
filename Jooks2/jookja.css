@@ -152,9 +152,10 @@ table {
 }
 
 th, td {
-    padding: 10px;
-    border: 1px solid #ddd;
-    text-align: left;
+    padding: 15px;
+    border: 1px solid black;
+    text-align: center;
+    color: blueviolet;
 }
 
 th {
