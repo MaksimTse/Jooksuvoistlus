@@ -199,7 +199,8 @@ $TOPResults = array_slice($ResultArray, 0, 5);
         <?php foreach ($TOPResults as $index => $result) : ?>
             <li class="leaderboard-item">
                 <span class="rank"><?= $index + 1 ?></span>
-                <span class="medal"><?= ($index == 0) ? '🥇' : (($index == 1) ? '🥈' : '🥉') ?></span>
+                <span class="medal"><?= ($index == 0) ? '🥇' : (($index == 1) ? '🥈' : (($index == 2) ? '🥉' : (($index == 3) ? '4️⃣' : '5️⃣'))) ?></span>
+
                 <span class="name"><?= $result['nimi'] . ' ' . $result['perenimi'] ?></span>
                 <span class="time"><?= $result['difference'] ?> seconds</span>
             </li>
