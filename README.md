@@ -332,6 +332,15 @@ Tšepelevitš Maksim
 
 ## Ylesanned
 
+1. Lisa uus css stiil igas tabelis
+2. Vaheta põhivärv
+3. Muuda autsustamine nii et seal kuvatakse 5 tulemuset
+4. Lisa tabelite nuppudele uus stiil (kustutamise, muutmise jms linkide asemel.)
+5. Vaheta logo
+6. Lisa teave saidi avalehele
+
+admin login - admin | admin.
+
 <p align="right">(<a href="#readme-top">Tagasi üles</a>)</p>
 
 [product-screenshot]: images/screenshot.png
