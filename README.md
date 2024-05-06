@@ -38,6 +38,7 @@
 6. [Kood](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#kood)
    - [Faili struktuur](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#faili-struktuur)
 7. [Autorid](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#autorid)
+8. [Ülesanned](https://github.com/MaksimTse/Jooksuvoistlus/blob/main/README.md#Ylesaned)
 
 # Projekti kohta
 
@@ -328,6 +329,8 @@ See projekt sisaldab järgmist funktsionaalsust:
 ## Autorid
 
 Tšepelevitš Maksim
+
+## Ylesanned
 
 <p align="right">(<a href="#readme-top">Tagasi üles</a>)</p>
 
