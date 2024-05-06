@@ -178,6 +178,40 @@
     <?php
     }
     ?>
+        <table>
+            <td>
+                Jooksu maraton "Kõrgemale tõustes"
+                <br>
+
+                Tere tulemast jooksu maratonile "Kõrgemale tõustes"! See põnev maraton pakub ainulaadset võimalust kõigil jooksjatel proovida oma jõudu, ületades distantsi kaunite maastike ja inspireeriva atmosfääri keskel.
+<br>
+                Kuupäev ja koht:
+<br>
+                Kuupäev: 15. september 2024
+                Koht: Linnapark "Rohelised avarused", Spordi tänav 10, Uuslinn
+<br>
+                Distantsid:
+<br>
+                Maraton (42.195 km): Ideaalne kogenud jooksjatele, kes on valmis tõsiseks väljakutseks.
+                Poolmaraton (21.0975 km): Sobib nii kogenud jooksjatele kui ka algajatele, kes soovivad proovida oma jõudu lühemal distantsil.
+                10 km: Suurepärane valik algajatele jooksjatele või neile, kes eelistavad lühemaid distantsi.
+<br>
+                Sündmuse kava:
+<br>
+                7:00 - Osalejate registreerimine
+                8:00 - Maratoni ja poolmaratoni start
+                8:15 - 10 km jooksu start
+                12:00 - Võitjate autasustamine ja sündmuse lõpp
+<br>
+                Registreerimine:
+                Osalejate registreerimine on avatud kuni 10. septembrini 2024. Registreeruge kiiresti, et saada võimalus osaleda selles ainulaadses sündmuses! Registreerimiseks külastage meie veebisaiti aadressil www.korgemale-toustes-maraton.ee/registreerimine.
+<br>
+                Võtke meiega ühendust:
+                Kui teil on küsimusi või vajate täiendavat teavet, võtke julgelt ühendust telefonil +123456789 või e-posti teel info@korgemale-toustes-maraton.ee.
+<br>
+                Liituge meiega ja tõuske kõrgemale koos "Kõrgemale tõustes" jooksu maratoniga!
+            </td>
+        </table>
     <br>
     <div>
         <?php if (!isset($_SESSION["login"]))
